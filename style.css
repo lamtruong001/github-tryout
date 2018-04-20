@@ -1,0 +1,38 @@
+body{
+    background: #a2c0e3;
+}
+
+#content{
+    background: #FFFFFF;
+    width:1024px;
+    margin:auto;
+}
+
+.item{
+    padding:5px 10px;
+    margin:5px 0px;
+    border:2px solid black;
+}
+.up .down{
+    text-decoration: blink;
+}
+
+.up{
+    color:green;
+}
+.down{
+    color:red;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+img{
+    width:200px;
+    height:200px;
+}
